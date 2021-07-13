@@ -1,2 +1,2 @@
 # ProHelm
-A next generation smart biker Helmet
+Smart biker helmet with XR(Extended Reality) System for hands-free navigation and assistance. Prohelm is a new generation smart helmet created to provide an extended augmented reality-based navigation system, which gives a hands-free and distraction less biking experience. Conducted the research at Yashavantrao Chavan Center for Invention, Innovation, and Incubation (YC-CIII) at Research and Development Center.
